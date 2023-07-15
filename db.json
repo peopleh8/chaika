@@ -1,0 +1,124 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "type": "credit",
+      "price": 14.06,
+      "name": "Apple",
+      "desc": "Card number used",
+      "date": "15.07.2023",
+      "status": "pending",
+      "authorizedUser": "Diana"
+    },
+    {
+      "id": 2,
+      "type": "payment",
+      "price": 174.00,
+      "name": "Payment",
+      "desc": "From JPMorgan Chase Bark Nanional",
+      "date": "11.07.2023",
+      "status": "approved",
+      "authorizedUser": ""
+    },
+    {
+      "id": 3,
+      "type": "credit",
+      "price": 3.24,
+      "name": "Apple",
+      "desc": "Card number used",
+      "date": "09.07.2023",
+      "status": "approved",
+      "authorizedUser": "Diana"
+    },
+    {
+      "id": 4,
+      "type": "payment",
+      "price": 99.71,
+      "name": "Payment",
+      "desc": "From JPMorgan Chase Bark Nanional",
+      "date": "01.07.2023",
+      "status": "approved",
+      "authorizedUser": ""
+    },
+    {
+      "id": 5,
+      "type": "payment",
+      "price": 73.58,
+      "name": "Payment",
+      "desc": "From JPMorgan Chase Bark Nanional",
+      "date": "01.07.2023",
+      "status": "approved",
+      "authorizedUser": ""
+    },
+    {
+      "id": 6,
+      "type": "credit",
+      "price": 21.61,
+      "name": "IKEA",
+      "desc": "Round Rock, TX",
+      "date": "10.01.2022",
+      "status": "approved",
+      "authorizedUser": ""
+    },
+    {
+      "id": 7,
+      "type": "credit",
+      "price": 73.58,
+      "name": "Target",
+      "desc": "Cendar Rock, TX",
+      "date": "09.01.2022",
+      "status": "approved",
+      "authorizedUser": ""
+    },
+    {
+      "id": 8,
+      "type": "credit",
+      "price": 73.58,
+      "name": "Target",
+      "desc": "Cendar Rock, TX",
+      "date": "09.01.2022",
+      "status": "approved",
+      "authorizedUser": ""
+    },
+    {
+      "id": 9,
+      "type": "credit",
+      "price": 73.58,
+      "name": "Target",
+      "desc": "Cendar Rock, TX",
+      "date": "09.01.2022",
+      "status": "approved",
+      "authorizedUser": ""
+    },
+    {
+      "id": 10,
+      "type": "credit",
+      "price": 73.58,
+      "name": "Target",
+      "desc": "Cendar Rock, TX",
+      "date": "09.01.2022",
+      "status": "approved",
+      "authorizedUser": ""
+    },
+    {
+      "id": 11,
+      "type": "credit",
+      "price": 73.58,
+      "name": "Async",
+      "desc": "Cendar Rock, TX",
+      "date": "09.01.2022",
+      "status": "approved",
+      "authorizedUser": ""
+    },
+    {
+      "id": 12,
+      "type": "credit",
+      "price": 73.58,
+      "name": "Async",
+      "desc": "Cendar Rock, TX",
+      "date": "09.01.2022",
+      "status": "approved",
+      "authorizedUser": ""
+    }
+  ]
+}

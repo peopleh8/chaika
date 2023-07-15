@@ -1,0 +1,36 @@
+.detail {
+  border-radius: var(---border-radius);
+  background: var(---primary-bg-color);
+  padding: 15px 10px;
+}
+
+.body {
+  padding: 0 5px 10px 5px;
+  border-bottom: 1px solid var(---decorate-color);
+}
+
+.status {
+  font-weight: 600;
+  font-size: 15px;
+  margin-bottom: 3px;
+  span {
+    text-transform: capitalize;
+  }
+}
+
+.name {
+  color: var(---secondary-text-color);
+  font-size: 15px;
+  &::first-letter {
+    text-transform: uppercase;
+  }
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 5px 0;
+  font-weight: 600;
+  font-size: 15px;
+}
